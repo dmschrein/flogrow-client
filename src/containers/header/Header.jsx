@@ -19,7 +19,7 @@ const Header = () => (
           <p>1,600 people requested access a visit in last 24 hours</p>
           </div>
         </div>
-        <div className="gpt3__header-image">
+        <div className="flogrow__header-image">
           <img src={header} alt="header"/>
       </div>
     </div>
